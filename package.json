@@ -11,14 +11,16 @@
   "dependencies": {
     "eas-cli": "^16.6.2",
     "expo": "~53.0.9",
+    "expo-dev-client": "~5.1.8",
     "expo-device": "~7.1.4",
     "expo-status-bar": "~2.2.3",
+    "expo-system-ui": "~5.0.7",
     "react": "19.0.0",
     "react-native": "0.79.2",
     "react-native-base64": "^0.2.1",
     "react-native-ble-plx": "^3.5.0",
-    "expo-system-ui": "~5.0.7",
-    "expo-dev-client": "~5.1.8"
+    "react-native-skia": "^0.0.1",
+    "@shopify/react-native-skia": "v2.0.0-next.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
